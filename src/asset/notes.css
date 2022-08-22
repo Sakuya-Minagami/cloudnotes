@@ -1,0 +1,7 @@
+body{
+    /* background:url(@/asset/img/2.png)
+    no-repeat; */
+    background-color:chartreuse;
+    background-size: cover;
+    background-attachment: fixed;
+}
